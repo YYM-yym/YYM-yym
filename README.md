@@ -6,7 +6,7 @@
 - Feel free to shoot me an email at yy2650@nyu.edu
 
 ----
-Dunno what to listen to?
+Dunno what to listen to? -- Here is my recent playlist!
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3165iizqgn5iio5ydaw3pybk4ehm)
 
