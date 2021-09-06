@@ -6,6 +6,7 @@
 - Feel free to shoot me an email at yy2650@nyu.edu
 
 
+##### Technology is best when it brings people together. 
 <!--
 **YYM-yym/YYM-yym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
