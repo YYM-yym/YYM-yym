@@ -6,9 +6,8 @@
 - Feel free to shoot me an email at yy2650@nyu.edu
 
 
-<p align="center">Dunno what to listen to?</p>
-<p align="center">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3165iizqgn5iio5ydaw3pybk4ehm)</p>
-
+Dunno what to listen to?
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3165iizqgn5iio5ydaw3pybk4ehm)
 
 
 
