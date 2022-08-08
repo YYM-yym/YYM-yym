@@ -2,8 +2,11 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=495867&color=495867&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dhayschan&style=flat-square)](https://github.com/YYM-yym)
 
-- Senior student at [NYU Shanghai](https://shanghai.nyu.edu/), BSc in Data Science, Business and Finance.
-- Feel free to shoot me an email at yy2650(@)nyu.edu
+📍 Singapore
+
+- Graduate student at [National University of Singapore](https://www.nus.edu.sg/), MSc in Business Analytics.
+- Earned my Bachelor's degree at [NYU](https://shanghai.nyu.edu/), BSc in Data Science, Business and Finance.
+- Feel free to shoot me an email at e0997910(@)u.nus.edu
 
 ----
 Dunno what to listen to? -- Here is my recent playlist!
