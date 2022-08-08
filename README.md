@@ -5,7 +5,7 @@
 📍 Singapore
 
 - Graduate student at [National University of Singapore](https://www.nus.edu.sg/), MSc in Business Analytics.
-- Earned my Bachelor's degree at [NYU](https://shanghai.nyu.edu/), BSc in Data Science, Business and Finance.
+- Earned my Bachelor's degree at [New York University](https://shanghai.nyu.edu/), BSc in Data Science, Business and Finance.
 - Feel free to shoot me an email at e0997910(@)u.nus.edu
 
 ----
